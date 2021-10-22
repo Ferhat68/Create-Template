@@ -1,0 +1,61 @@
+/*Colors-Renklendirme çalışması yapıldı*/
+#blue-frame {
+  background-color: rgba(11, 112, 243, 0.568);
+}
+section {
+  background-color: white;
+}
+#blue-line1,
+#blue-line2,
+#blue-line3,
+#mobile-line,
+#mobile-square {
+  background-color: rgba(11, 112, 243, 0.568);
+}
+#play-circle {
+  background-color: rgba(11, 112, 243, 0.568);
+}
+#play-trigon {
+  background-color: white;
+}
+#multi-lines {
+  background-color: transparent;
+}
+.white-line {
+  background-color: white;
+}
+#mobile-circle {
+  background-color: white;
+  border-style: solid;
+  border-width: thin;
+  border-color: rgba(11, 112, 243, 0.568);
+}
+#tree-point {
+  font-size: 10%;
+  height: 10%;
+  width: 40%;
+  color: transparent;
+  text-shadow: 0 0 0 rgba(11, 112, 243, 0.568);
+}
+#circle-center,
+#search-blue,
+#trigon-right,
+#circle-right,
+#trigon-center {
+  background-color: rgba(11, 112, 243, 0.568);
+}
+
+i {
+  color: rgba(11, 112, 243, 0.568);
+  background-color: white;
+}
+#switches {
+  background-color: transparent;
+}
+#first-switch-circle {
+  border-color: rgba(11, 112, 243, 0.568);
+}
+#second-switch-circle {
+  border-color: white;
+  background-color: rgba(11, 112, 243, 0.568);
+}
